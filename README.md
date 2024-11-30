@@ -98,9 +98,10 @@ Detail-oriented engineer with expertise in software development and cloud comput
 ---
 
 ## ⚡ Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Govind93923)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Govind93923&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Govind93923&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Govind93923&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Govind93923&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
