@@ -4,7 +4,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Govind93923&color=blue)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=27F7FF&center=true&vCenter=true&width=600&lines=A+Passionate+Software+Developer;DevOps+Engineer;Cloud+Computing+Enthusiast;Always+Striving+to+Innovate)
-![Profile Banner](https://your-image-link.com) <!-- Replace this link with the banner image URL -->
+![Profile Banner](![image](https://github.com/user-attachments/assets/69361595-7f83-4667-bf74-6af683885a4e)
+) <!-- Replace this link with the banner image URL -->
 ## 📄 My Resume
 📥 **[Download My Resume](https://github.com/your-repo-name/your-resume-file.pdf)** <!-- Replace with the actual link to your uploaded resume -->
 
