@@ -8,7 +8,7 @@
 
 
 ---
-![Profile Banner](https://github.com/Govind93923/Govind93923/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20Banner.png) 
+
 
 ## 📄 My Resume
 📥 **[Download My Resume](https://github.com/Govind93923/Govind93923/raw/main/MY_RESUME.pdf)** <!-- Link to your resume -->
