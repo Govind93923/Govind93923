@@ -4,7 +4,9 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Govind93923&color=blue)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=27F7FF&center=true&vCenter=true&width=600&lines=A+Passionate+Software+Developer;DevOps+Engineer;Cloud+Computing+Enthusiast;Always+Striving+to+Innovate)
+<img src="https://github.com/Govind93923/Govind93923/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png" alt="Description of Image">
 
+ 
 
 
 ---
