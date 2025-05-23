@@ -13,7 +13,7 @@
 
 
 ## 📄 My Resume
-📥 **[Download My Resume]()** <!-- Link to your resume -->
+📥 **[Download My Resume](https://github.com/Govind93923/Govind93923/blob/main/Govind_Resume.pdf)** <!-- Link to your resume -->
 
 ---
 
